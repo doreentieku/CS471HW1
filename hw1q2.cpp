@@ -4,7 +4,7 @@
 #include <cstdlib>      // exit()
 
 int main() {
-    int n = 3;   // change this to 10 for the second run
+    int n = 10;   // n can be 3 or 10
 
     // CHILD 1: sum of natural numbers
     if (fork() == 0) {
