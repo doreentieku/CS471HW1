@@ -1,6 +1,7 @@
 # Compile
-g++ hw1q2.cpp -o hw1q2
 
+g++ q9.cpp -o q9
 
 # run
-./hw1q2
+
+./q9
